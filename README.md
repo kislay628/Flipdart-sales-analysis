@@ -18,28 +18,24 @@ GitHub – Version control and project documentation
 📂 Project Structure
 Customer-Shopping-Behavior-Analysis/
 
-│
 
 ├── data/
-│   └── sales_data.csv
+   └── sales_data.csv
 
-│
+
 ├── python/
-│   └── eda_analysis.ipynb
+   └── eda_analysis.ipynb
 
-│
 ├── sql/
-│   └── analysis_queries.sql
+   └── analysis_queries.sql
 
-│
 ├── powerbi/
-│   └── sales_dashboard.pbix
+   └── sales_dashboard.pbix
 
-│
 ├── report/
-│   └── business_insights.pdf
+   └── business_insights.pdf
 
-│
+
 └── README.md
 
 🔄 Step-by-Step Workflow
